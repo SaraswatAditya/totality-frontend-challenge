@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "title": "Cozy Apartment",
+    "description": "A cozy apartment in the city center.",
+    "price": 1200,
+    "location": "New York",
+    "bedrooms": 2,
+    "amenities": ["WiFi", "Air Conditioning"],
+    "image": "https://images.pexels.com/photos/6077368/pexels-photo-6077368.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 2,
+    "title": "Modern Condo",
+    "description": "A modern condo with great views.",
+    "price": 2000,
+    "location": "San Francisco",
+    "bedrooms": 3,
+    "amenities": ["Pool", "Gym"],
+    "image": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 3,
+    "title": "Beach House",
+    "description": "A beautiful beach house with sea views.",
+    "price": 3000,
+    "location": "Miami",
+    "bedrooms": 4,
+    "amenities": ["WiFi", "Pool"],
+    "image": "https://images.pexels.com/photos/1449729/pexels-photo-1449729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 4,
+    "title": "Mountain Cabin",
+    "description": "A rustic cabin in the mountains.",
+    "price": 1500,
+    "location": "Denver",
+    "bedrooms": 2,
+    "amenities": ["Fireplace", "WiFi"],
+    "image": "https://images.pexels.com/photos/786944/pexels-photo-786944.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 5,
+    "title": "Suburban Home",
+    "description": "A spacious home in a quiet suburb.",
+    "price": 2500,
+    "location": "Chicago",
+    "bedrooms": 4,
+    "amenities": ["Garage", "WiFi"],
+    "image": "https://images.pexels.com/photos/4469137/pexels-photo-4469137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 6,
+    "title": "City Loft",
+    "description": "A stylish loft in the downtown area.",
+    "price": 1800,
+    "location": "Los Angeles",
+    "bedrooms": 1,
+    "amenities": ["Gym", "WiFi"],
+    "image": "https://images.pexels.com/photos/24710238/pexels-photo-24710238/free-photo-of-balconies-in-a-house-building.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 7,
+    "title": "Country Cottage",
+    "description": "A charming cottage in the countryside.",
+    "price": 1300,
+    "location": "Nashville",
+    "bedrooms": 3,
+    "amenities": ["Garden", "WiFi"],
+    "image": "https://images.pexels.com/photos/7031407/pexels-photo-7031407.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 8,
+    "title": "Downtown Studio",
+    "description": "A convenient studio in the heart of downtown.",
+    "price": 1000,
+    "location": "Boston",
+    "bedrooms": 1,
+    "amenities": ["WiFi", "Air Conditioning"],
+    "image": "https://images.pexels.com/photos/7031723/pexels-photo-7031723.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 9,
+    "title": "Luxury Villa",
+    "description": "A luxurious villa with all the amenities.",
+    "price": 4000,
+    "location": "Las Vegas",
+    "bedrooms": 5,
+    "amenities": ["Pool", "Gym", "WiFi"],
+    "image": "https://images.pexels.com/photos/6076854/pexels-photo-6076854.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 10,
+    "title": "Historic Home",
+    "description": "A historic home with modern amenities.",
+    "price": 2200,
+    "location": "Philadelphia",
+    "bedrooms": 3,
+    "amenities": ["WiFi", "Air Conditioning"],
+    "image": "https://images.pexels.com/photos/2297235/pexels-photo-2297235.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 11,
+    "image": "https://images.pexels.com/photos/2459/stairs-home-loft-lifestyle.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "3 BHK Ready to Occupy Flat",
+    "description": "Beautifully designed flat in a prime location.",
+    "location": "Mahesh Tower, Andheri",
+    "bedrooms": 3,
+    "price": 1750,
+    "amenities": ["WiFi", "Pool", "Gym"]
+  },
+  {
+    "id": 12,
+    "image": "https://images.pexels.com/photos/19277908/pexels-photo-19277908/free-photo-of-design-of-a-modern-living-room-in-a-spacious-house.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "2 BHK Spacious Apartment",
+    "description": "Spacious apartment with modern amenities.",
+    "location": "Green Valley, Malad",
+    "bedrooms": 2,
+    "price": 1250,
+    "amenities": ["WiFi", "Garden", "Gym"]
+  },
+  {
+    "id": 13,
+    "image": "https://images.pexels.com/photos/7031723/pexels-photo-7031723.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "1 BHK Compact Flat",
+    "description": "Affordable flat with necessary amenities.",
+    "location": "Sunny Side, Kandivali",
+    "bedrooms": 1,
+    "price": 8500,
+    "amenities": ["WiFi", "Parking"]
+  },
+  {
+    "id": 14,
+    "image": "https://images.pexels.com/photos/1571470/pexels-photo-1571470.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "4 BHK Luxury Villa",
+    "description": "Luxurious villa with all modern facilities.",
+    "location": "Ocean View, Juhu",
+    "bedrooms": 4,
+    "price": 4500,
+    "amenities": ["WiFi", "Pool", "Gym", "Garden"]
+  },
+  {
+    "id": 15,
+    "image": "https://images.pexels.com/photos/3623770/pexels-photo-3623770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "2 BHK Modern Apartment",
+    "description": "Modern apartment with stylish interiors.",
+    "location": "Skyline Heights, Powai",
+    "bedrooms": 2,
+    "price": 1600,
+    "amenities": ["WiFi", "Gym", "Parking"]
+  },
+  {
+    "id": 16,
+    "image": "https://images.pexels.com/photos/1543447/pexels-photo-1543447.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "3 BHK Family Apartment",
+    "description": "Spacious apartment ideal for families.",
+    "location": "Lakeview Residency, Thane",
+    "bedrooms": 3,
+    "price": 2100,
+    "amenities": ["WiFi", "Gym", "Garden"]
+  },
+  {
+    "id": 17,
+    "image": "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Studio Apartment",
+    "description": "Compact studio apartment for singles.",
+    "location": "City Center, Bandra",
+    "bedrooms": 0,
+    "price": 6000,
+    "amenities": ["WiFi", "Parking"]
+  },
+  {
+    "id": 18,
+    "image": "https://images.pexels.com/photos/210474/pexels-photo-210474.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "4 BHK Penthouse",
+    "description": "Luxurious penthouse with panoramic views.",
+    "location": "Elite Towers, Worli",
+    "bedrooms": 4,
+    "price": 5500,
+    "amenities": ["WiFi", "Pool", "Gym", "Garden"]
+  },
+  {
+    "id": 19,
+    "image": "https://images.pexels.com/photos/1571459/pexels-photo-1571459.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "2 BHK Budget Apartment",
+    "description": "Affordable apartment with basic amenities.",
+    "location": "Economy Residency, Mira Road",
+    "bedrooms": 2,
+    "price": 1200,
+    "amenities": ["WiFi", "Parking"]
+  }
+]
