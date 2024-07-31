@@ -18,3 +18,8 @@ npm run dev
 
 ## NOTE
 Make sure you have the proper .env file
+
+# Additional Notes
+The application includes a backend built with Node.js and Express for handling user authentication and booking management.
+Material-UI is used for designing the components to ensure a consistent and professional look.
+Redux is used for state management, and Redux Persist is used to persist the state across sessions.
